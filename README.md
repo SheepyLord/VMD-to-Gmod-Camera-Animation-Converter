@@ -67,4 +67,4 @@ This avoids common issues such as:
 ### Basic usage
 
 ```bash
-python tools/vmd_to_campath_mmd_json.py camera.vmd
+python vmd_to_campath_mmd_json.py camera.vmd
